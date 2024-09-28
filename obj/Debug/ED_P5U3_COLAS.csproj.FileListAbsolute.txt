@@ -1,0 +1,25 @@
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\bin\Debug\ED_P5U3_COLAS.exe.config
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\bin\Debug\ED_P5U3_COLAS.exe
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\bin\Debug\ED_P5U3_COLAS.pdb
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.csproj.AssemblyReference.cache
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.Form1.resources
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.Properties.Resources.resources
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.csproj.GenerateResource.cache
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.csproj.CoreCompileInputs.cache
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.csproj.CopyComplete
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.exe
+C:\Users\PC01-1H\Desktop\asdfasdf\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.pdb
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\bin\Debug\ED_P5U3_COLAS.exe.config
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\bin\Debug\ED_P5U3_COLAS.exe
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\bin\Debug\ED_P5U3_COLAS.pdb
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.csproj.AssemblyReference.cache
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.Form1.resources
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.Properties.Resources.resources
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.csproj.GenerateResource.cache
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.csproj.CoreCompileInputs.cache
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\obj\Debug\ED_P5U3_.121A8C0F.Up2Date
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.exe
+C:\Users\linkm\Code\Csharp\Unidad 2\ED_P5U3_COLAS\obj\Debug\ED_P5U3_COLAS.pdb
