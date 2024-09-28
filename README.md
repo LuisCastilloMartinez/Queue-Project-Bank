@@ -10,8 +10,12 @@
   <p>If the button is pressed while the queue is empty, the system will display the message: "Queue is empty, unable to delete any data."</p>
 </div>
 <div align="center">
+  
+  # Here is a visual support of how Queue works
   <img src="https://i.imgur.com/2QKEwEM.gif" alt="Picture1" width="300"/>
-  <p>If the button is pressed while the queue is empty, the system will display the message: "Queue is empty, unable to delete any data."</p>
+  <img src="https://i.imgur.com/50va5VZ.gif" alt="Picture1" width="300"/>
+
+  
 </div>
 
 
