@@ -1,1 +1,9 @@
-![image](https://github.com/user-attachments/assets/3234ca21-4914-43a6-abd0-2c91823295b7)
+<div align="center">
+
+  # Bank Queue
+
+  <img src="URL_DE_TU_IMAGEN" alt="Descripción de la imagen" width="300"/>
+
+  <p>The application initializes with unpopulated fields, which will be filled sequentially with randomized numerical values, ensuring that the assignment occurs in the correct order of execution.</p>
+
+</div>
